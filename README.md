@@ -6,7 +6,7 @@ This repository is a collection of notebooks and scripts that I have created to 
 
 '''
 
-conda create --name main-ds python=3.12
+conda create --name main-ds python=3.10
 
 conda activate main-ds
 
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 git clone https://github.com/sarahsalsabila01/E-Commerce-_Sales_and_RFM_Analyst-_also_Streamlit_Dashboard.git
 
-CTRL+SHIFT+P -> Python: Select Interpreter -> Select Python 3.12
+CTRL+SHIFT+P -> Python: Select Interpreter -> Select Python 3.10
 
 CTRL+SHIFT+P -> Python: Install Packages -> Select requirements.txt
 
