@@ -62,7 +62,6 @@ with st.sidebar:
                 "Customer Satisfaction Level",
                 "RFM Analysis",
             ],
-        st.caption("Create by Sarah Salsabila")    
         )
 
 
@@ -70,7 +69,7 @@ if analysis_option == "Homepage":
         st.title("📊 Sales and RFM Analysis Dashboard by Sarah Salsabila")
         st.write(
             "Welcome to the dashboard! Use the sidebar to navigate through different analyses.")
-        st.image(r'Image/Sarsabila_purple_dashboard_-removebg-preview (1).png')
+        st.image('Image\Sarsabila_purple_dashboard_-removebg-preview (1).png')
         
         
     # Data Overview
