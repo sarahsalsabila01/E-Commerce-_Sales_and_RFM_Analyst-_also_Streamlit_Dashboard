@@ -62,7 +62,6 @@ with st.sidebar:
                 "Customer Satisfaction Level",
                 "RFM Analysis",
             ],
-        st.caption("Created by Sarah Salsabila")
         )
 
 
